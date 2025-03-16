@@ -1,0 +1,8 @@
+langgraph
+langchain
+requests
+beautifulsoup4
+serpapi
+transformers
+torch
+google-search-results
